@@ -1,0 +1,47 @@
+html {
+  background-color: #f95c18;
+}
+
+.Title {
+  font-family: 'Pangolin', cursive;
+  color: #fff;
+  font-size: 26pt;
+}
+
+.Button {
+  height: 100px;
+  width: 650px;
+  left: 350px;
+}
+
+#B1 {
+  font-family: 'Pangolin', cursive;
+  color: #fff;
+  font-size: 26pt;
+  position: absolute;
+  left: 215px;
+}
+
+#B2 {
+  font-family: 'Pangolin', cursive;
+  color: #fff;
+  font-size: 26pt;
+  position: absolute;
+  left: 215px;
+}
+
+#B3 {
+  font-family: 'Pangolin', cursive;
+  color: #fff;
+  font-size: 26pt;
+  position: absolute;
+  left: 215px;
+}
+
+#B4 {
+  font-family: 'Pangolin', cursive;
+  color: #fff;
+  font-size: 26pt;
+  position: absolute;
+  left: 215px;
+}

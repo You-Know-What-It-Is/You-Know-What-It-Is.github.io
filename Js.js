@@ -140,7 +140,7 @@
 
   $('#B2').css("left", "210");
   //$('#B3').css("font-size", "26");
-  $('#B3').css("left", "32");
+  $('#B3').css("left", "32"); 
   $('#B4').css("left", "100");
   
   $('.Title').html('Alright Now With The Bad Pick-Up Line Out Of The Way, How Was Your Day')

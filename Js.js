@@ -178,39 +178,27 @@ function Q3() {
   
   $('.Title').html($.A2);
   
-  $('#B1').html('Thought You\'d Never Ask!').click(function () {
+  $('#B1').html('<a href=\"mailto:quant.frag@gmail.com?Subject=\'yes\'\">Thought You\'d Never Ask!</a>').click(function () {
     $.A3 = "You\'ve Been Waiting For This To Happen, Why Thats Just About The Funniest Joke I\'ve Heard In A While";
     $.X = "So We're A Thing Now....Wanna Catch A Movie";
-    $( "#B1" ).on( "click", function(event) {
-    $(this).attr('href', 'mailto:quant.frag@gmail.com?subject=Yea No');
-    });
     Q4();
   });
   
-  $('#B2').html('Umm Yea I Guess').click(function () {
+  $('#B2').html('<a href=\"mailto:quant.frag@gmail.com?Subject=\'yes\'\">Umm Yea I Guess</a>').click(function () {
     $.A3 = "Oh Well Than I Ran Out Of Questions, Honestly I Didn\'t Think I\'d Get This Far, Give Me Some Time To Think";
     $.X = "So We're A Thing Now....Wanna Catch A Movie";
-    $( "#B2" ).on( "click", function(event) {
-    $(this).attr('href', 'mailto:quant.frag@gmail.com?subject=Yea');
-    });
     Q4();
   });
 
   $('#B3').html('Give Me A Day Or Tw-, A Month O-, A Year Or Tw-, You Know What Next Question ').click(function () {
     $.A3 = "Ummmmm Lol Rip The Dream...";
     $.X = "Well This Is Wierd";
-    $( "#B3" ).on( "click", function(event) {
-    $(this).attr('href', 'mailto:quant.frag@gmail.com?subject=Yea No');
-    });
     Q4();
   });
 
   $('#B4').html('Lol Wheres The Camera This Is Gonna Go Viral, It\'s A Prank Right?').click(function () {
     $.A3 = "Ha Yea Totally Just A Prank...";
     $.X = "Well This Is Wierd";
-    $( "#B4" ).on( "click", function(event) {
-    $(this).attr('href', 'mailto:quant.frag@gmail.com?subject=Yea No');
-    });
     Q4();
   });
 };

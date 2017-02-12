@@ -2,6 +2,12 @@ html {
   background-color: #f95c18;
 }
 
+#Box {
+  height: 58px;
+  width: 650px;
+  background-color: #efefef;
+}
+
 .Title {
   font-family: 'Roboto', sans-serif;
   color: #fff;

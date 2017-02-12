@@ -73,7 +73,7 @@ function Q2() {
   });
 
   $('#B2').html('I Mean It Was Ok').click(function () {
-    $.A2  "Well This May Either Make Or Break Your Day, But You Wanna Date...?";
+    $.A2 = "Well This May Either Make Or Break Your Day, But You Wanna Date...?";
     Q3();
   });
   

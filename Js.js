@@ -178,13 +178,13 @@ function Q3() {
   
   $('.Title').html($.A2);
   
-  $('#B1').html('<a href=\"mailto:quant.frag@gmail.com?Subject=\'yes\'\">Thought You\'d Never Ask!</a>').click(function () {
+  $('#B1').html('Thought You\'d Never Ask!').click(function () {
     $.A3 = "You\'ve Been Waiting For This To Happen, Why Thats Just About The Funniest Joke I\'ve Heard In A While";
     $.X = "So We're A Thing Now....Wanna Catch A Movie";
     Q4();
   });
   
-  $('#B2').html('<a href=\"mailto:quant.frag@gmail.com?Subject=\'yes\'\">Umm Yea I Guess</a>').click(function () {
+  $('#B2').html('Umm Yea I Guess').click(function () {
     $.A3 = "Oh Well Than I Ran Out Of Questions, Honestly I Didn\'t Think I\'d Get This Far, Give Me Some Time To Think";
     $.X = "So We're A Thing Now....Wanna Catch A Movie";
     Q4();

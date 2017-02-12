@@ -1,5 +1,3 @@
-
-@@ -0,0 +1,137 @@
 +$(document).ready(function () {
 +  $('#B1').html(' ');
 +  $('#B2').click(function () {Start();});
